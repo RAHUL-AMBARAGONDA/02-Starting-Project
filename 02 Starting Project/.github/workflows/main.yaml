@@ -12,5 +12,5 @@ jobs:
       node-version: 18
    - name: Install Dependicies
      run: npm ci
-   - name: run
+   - name: runn
      run: npm-test
